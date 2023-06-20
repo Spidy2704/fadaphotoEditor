@@ -81,14 +81,14 @@ console.log("active overlay",activeOverlay);
       <Head>
         <title>{router?.query?.slug} - FADA GM</title>
       </Head>
-      <div className="min-h-screen min-w-screen flex flex-col items-center   lg:p-20 md:p-10 p-5 bg-center bg-cover bg-no-repeat bg-static bg-fixed bg-[url('/bg1.png')]">
+      <div className="min-h-screen min-w-screen flex flex-col items-center   lg:p-20 md:p-10  bg-center bg-cover bg-no-repeat bg-static bg-fixed bg-[url('/bg1.png')]">
         <div className="container-sk">
         
           {found && (
-            <Link href="/">
+            <Link href="/" className="lg:sticky lg:top-5">
               <Button
                 variant="contained"
-                className="bg-white text-primary hover:text-white font-bold"
+                className="bg-white text-primary hover:bg-primary mt-5 hover:text-white font-bold"
               >
                 <ArrowBackIosIcon />
                 Back
@@ -96,12 +96,13 @@ console.log("active overlay",activeOverlay);
             </Link>
           )}
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-10 lg:gap-20 mt-5">
-            <div className="" >
+          <div className="grid grid-cols-1  lg:grid-cols-5 gap-4 md:gap-10 lg:gap-20 mt-5">
+            <div className="lg:col-span-2" >
               {found && <Canvas1 activeOverlay={activeOverlay} avatarValue={avatarValue} name={name}/>}
             </div>
-            <div className="w-full lg:col-span-2">
-            {name !== "1of1" ? <Hands  setActiveOverlay={setActiveOverlay} avatarValue={avatarValue} name={name}/> : <NoHand />}
+            <div className="w-full lg:col-span-3">
+            {name !== "1of1" ? <Hands activeOverlay={activeOverlay}  setActiveOverlay={setActiveOverlay} avatarValue={avatarValue} name={name}/> : <NoHand />}
+    
             </div>
 
           </div>

@@ -7,7 +7,7 @@ import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import handjson from "../../public/hands/Hands.json";
 import ImageSmall from "./imageSmall"
 
-export default function Hands({ avatarValue, name,setActiveOverlay }) {
+export default function Hands({ avatarValue, name,setActiveOverlay,activeOverlay }) {
   const [expanded, setExpanded] = useState(null);
   console.log("main json", handjson);
   console.log("name", name);
@@ -31,8 +31,8 @@ export default function Hands({ avatarValue, name,setActiveOverlay }) {
   console.log(handtomap);
 
   return (
-    <div className="w-full">
-      <div className="grid grid-cols-1 gap-4 max-h-[500px] overflow-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-transparent pr-3">
+    <div className="w-full ">
+      <div className="grid grid-cols-1 gap-4 overflow-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-transparent ">
         {handtomap.length > 0 ? (
           handtomap.map((item, index) => (
             <Accordion
@@ -42,20 +42,20 @@ export default function Hands({ avatarValue, name,setActiveOverlay }) {
               className="border  overflow-clip border-primary"
             >
               <AccordionSummary
-                className="bg-slate-50"
-                expandIcon={<ExpandMoreIcon />}
+                className="bg-primary"
+                expandIcon={<ExpandMoreIcon className="text-white" />}
                 aria-controls={`panel${index}-content`}
                 id={`panel${index}-header`}
               >
-                <Typography>{`${Object.keys(item)[0]}`}</Typography>
+                <p className="lg:text-lg text-base font-bold text-white">{`${Object.keys(item)[0]}`}</p>
               </AccordionSummary>
-              <AccordionDetails>
-                <ImageSmall setActiveOverlay={setActiveOverlay} item={item} avatarValue={avatarValue} />
+              <AccordionDetails >
+                <ImageSmall setActiveOverlay={setActiveOverlay} activeOverlay={activeOverlay} item={item} avatarValue={avatarValue} />
               </AccordionDetails>
             </Accordion>
           ))
         ) : (
-          <p className="lg:text-4xl md:text-3xl text-2xl h-40">No data found for the provided name.</p>
+          <p className="lg:text-4xl md:text-3xl text-2xl h-40">Categories not avaible now. Please comeback later.</p>
         )}
       </div>
     </div>

@@ -64,38 +64,48 @@ export default function Index() {
       <Head>
         <title>FADA GM</title>
       </Head>
-      <div className=" bg-center min-h-screen py-20 flex flex-col gap-4 justify-between bg-cover bg-no-repeat bg-static bg-fixed bg-[url('/bg1.png')]">
-        <div>
-          <Image
+
+      <div className="p-5 bg-center min-h-screen  flex flex-col gap-4 justify-between bg-cover bg-no-repeat bg-static bg-fixed backdrop-brightness-50  bg-[url('/bg1.png')]">
+        
+
+        <div className=" w-full px-5 md:w-1/2 mx-auto h-fit flex flex-col gap-10">
+         <div className="my-20 ">
+
+         <Image
             placeholder="blur"
             src="/gm.png"
-            width={500}
+            width={1000}
             height={500}
             alt="Picture of the author"
             blurDataURL="/blur.png"
-            className="object-contain  mx-auto px-8"
+            className="object-contain  w-full  mx-auto"
           />
-          <p className="lg:text-xl md:text-lg text-base text-center text-[#E27D48] font-display">Powered by FADA Labs</p>
-        </div>
+               <p className="lg:text-xl  md:text-lg text-base text-center   text-[#F3FCFF] font-display font-semibold">
+            Powered by FADA Labs
+          </p>
+         </div>
 
-        <div className=" w-full px-5 md:w-1/2 mx-auto h-fit flex flex-col gap-10">
-          <div className="">
-            <TextField
-              id="standard-basic"
-              label="Enter Your #ID"
-              className="w-full "
-              variant="standard"
-              onChange={(e) => {
-                setValue(e.target.value);
-              }}
-            />
+          <div className="flex w-full justify-center ">
+          <input
+  onChange={(e) => {
+    setValue(e.target.value);
+  }}
+  onInput={(e) => {
+    if (e.target.value.length > 9) {
+      e.target.value = e.target.value.slice(0, 9);
+    }
+  }}
+  placeholder="Enter Your #ID"
+  className="text-center focus:outline-none w-full lg:w-1/2 lg:text-2xl md:text-xl text-lg px-5 py-3 rounded-xl focus:shadow-lg [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
+  type="number"
+/>
           </div>
           {value ? (
             <Button
               onClick={() => fetchAvatarData(value)}
               variant="contained"
               disabled={value?.length < 1}
-              className="bg-[#F3FCFF] hover:bg-[#F3FCFF] text-gray-800 w-fit px-10 mx-auto lg:text-2xl md:text-xl text-lg py-3"
+              className="bg-[#F3FCFF] rounded-2xl overflow-hidden hover:bg-[#F3FCFF] text-gray-600 font-bold w-fit px-10 mx-auto lg:text-2xl md:text-xl text-lg py-3"
               fullWidth
             >
               Submit
@@ -106,12 +116,13 @@ export default function Index() {
               onClick={() => {
                 toast.warn("Please Enter Your ID.");
               }}
-              className="bg-[#F3FCFF] hover:bg-[#F3FCFF] text-gray-800 w-fit px-10 mx-auto lg:text-2xl md:text-xl text-lg py-3"
+              className="bg-[#F3FCFF] rounded-2xl hover:bg-[#F3FCFF] text-gray-600 font-bold w-fit px-10 mx-auto lg:text-2xl md:text-xl text-lg py-3"
               fullWidth
             >
               Submit
             </Button>
           )}
+     
         </div>
 
         <span></span>

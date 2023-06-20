@@ -58,7 +58,7 @@ export default function OverlayPage({ avatarValue, name, activeOverlay }) {
 
   return (
     <div
-      className={`border mx-auto border-primary rounded-2xl overflow-clip ${
+      className={`border lg:sticky lg:top-20 mx-auto border-primary rounded-2xl overflow-clip ${
         isLoaded ? "opacity-100" : "opacity-0"
       } transition-opacity duration-500`}
     >
@@ -68,7 +68,7 @@ export default function OverlayPage({ avatarValue, name, activeOverlay }) {
       />
       <div className="p-5 backdrop-blur-xl flex justify-between items-center">
         <span className="lg:text-2xl md:text-xl text-lg font-bold text-white">
-          {router.query.slug}
+          Fayden #{router.query.slug}
         </span>
         <a
 
@@ -76,7 +76,7 @@ export default function OverlayPage({ avatarValue, name, activeOverlay }) {
           download={filename}
           className="w-fit"
         >
-          <Button variant="contained"  className="bg-primary">
+          <Button variant="contained"  className="bg-primary hover:bg-primary">
             Download
           </Button>
         </a>
