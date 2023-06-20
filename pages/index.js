@@ -66,39 +66,36 @@ export default function Index() {
       </Head>
 
       <div className="p-5 bg-center min-h-screen  flex flex-col gap-4 justify-between bg-cover bg-no-repeat bg-static bg-fixed backdrop-brightness-50  bg-[url('/bg1.png')]">
-        
-
         <div className=" w-full px-5 md:w-1/2 mx-auto h-fit flex flex-col gap-10">
-         <div className="my-20 ">
-
-         <Image
-            placeholder="blur"
-            src="/gm.png"
-            width={1000}
-            height={500}
-            alt="Picture of the author"
-            blurDataURL="/blur.png"
-            className="object-contain  w-full  mx-auto"
-          />
-               <p className="lg:text-xl  md:text-lg text-base text-center   text-[#F3FCFF] font-display font-semibold">
-            Powered by FADA Labs
-          </p>
-         </div>
+          <div className="my-20 ">
+            <Image
+              placeholder="blur"
+              src="/gm.png"
+              width={1000}
+              height={500}
+              alt="Picture of the author"
+              blurDataURL="/blur.png"
+              className="object-contain  w-full  mx-auto"
+            />
+            <p className="lg:text-xl  md:text-lg text-base text-center   text-[#F3FCFF] font-display font-semibold">
+              Powered by FADA Labs
+            </p>
+          </div>
 
           <div className="flex w-full justify-center ">
-          <input
-  onChange={(e) => {
-    setValue(e.target.value);
-  }}
-  onInput={(e) => {
-    if (e.target.value.length > 9) {
-      e.target.value = e.target.value.slice(0, 9);
-    }
-  }}
-  placeholder="Enter Your #ID"
-  className="text-center focus:outline-none w-full lg:w-1/2 lg:text-2xl md:text-xl text-lg px-5 py-3 rounded-xl focus:shadow-lg [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
-  type="number"
-/>
+            <input
+              onChange={(e) => {
+                setValue(e.target.value);
+              }}
+              onInput={(e) => {
+                if (e.target.value.length > 9) {
+                  e.target.value = e.target.value.slice(0, 9);
+                }
+              }}
+              placeholder="Enter Your #ID Here"
+              className="text-center focus:outline-none w-full lg:w-1/2 lg:text-2xl md:text-xl text-lg px-5 py-3 rounded-xl focus:shadow-lg [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
+              type="number"
+            />
           </div>
           {value ? (
             <Button
@@ -122,7 +119,6 @@ export default function Index() {
               Submit
             </Button>
           )}
-     
         </div>
 
         <span></span>
