@@ -17,6 +17,8 @@ function MyApp({ Component, pageProps, router }) {
   //   console.warn = function () {};
   //   console.error = function () {};
 
+console.log("Spidy");
+
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
