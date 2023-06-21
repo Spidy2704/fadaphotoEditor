@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps, router }) {
   //   console.warn = function () {};
   //   console.error = function () {};
 
-
+console.log("Docker file check")
 
   const [loading, setLoading] = useState(true);
 

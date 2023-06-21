@@ -1,5 +1,5 @@
 # pull the official base image
-FROM node:16-alpine
+FROM node:16
 
 # set your working directory
 WORKDIR /usr/src/app
