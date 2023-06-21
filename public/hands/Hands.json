@@ -36,6 +36,15 @@
               "Cards": "/hands/Hands/Android/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Android/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Android/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Android/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Android/Others/Light.png"
             },
             {
@@ -56,9 +65,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Android/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Android/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Android/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Android/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Android/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Android/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Android/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Android/Smoke/Vape.png"
             }
           ]
         }
@@ -100,6 +134,15 @@
               "Cards": "/hands/Hands/Blue Orb/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Blue Orb/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Blue Orb/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Blue Orb/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Blue Orb/Others/Light.png"
             },
             {
@@ -120,9 +163,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Blue Orb/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Blue Orb/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Blue Orb/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Blue Orb/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Blue Orb/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Blue Orb/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Blue Orb/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Blue Orb/Smoke/Vape.png"
             }
           ]
         }
@@ -164,6 +232,15 @@
               "Cards": "/hands/Hands/Cyborg/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Cyborg/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Cyborg/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Cyborg/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Cyborg/Others/Light.png"
             },
             {
@@ -184,9 +261,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Cyborg/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Cyborg/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Cyborg/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Cyborg/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Cyborg/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Cyborg/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Cyborg/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Cyborg/Smoke/Vape.png"
             }
           ]
         }
@@ -228,6 +330,15 @@
               "Cards": "/hands/Hands/Dark Beige/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Dark Beige/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Dark Beige/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Dark Beige/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Dark Beige/Others/Light.png"
             },
             {
@@ -248,9 +359,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Dark Beige/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Dark Beige/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Dark Beige/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Dark Beige/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Dark Beige/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Dark Beige/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Dark Beige/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Dark Beige/Smoke/Vape.png"
             }
           ]
         }
@@ -292,6 +428,15 @@
               "Cards": "/hands/Hands/Exalted/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Exalted/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Exalted/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Exalted/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Exalted/Others/Light.png"
             },
             {
@@ -312,9 +457,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Exalted/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Exalted/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Exalted/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Exalted/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Exalted/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Exalted/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Exalted/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Exalted/Smoke/Vape.png"
             }
           ]
         }
@@ -356,6 +526,15 @@
               "Cards": "/hands/Hands/Light Beige/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Light Beige/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Light Beige/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Light Beige/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Light Beige/Others/Light.png"
             },
             {
@@ -376,9 +555,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Light Beige/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Light Beige/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Light Beige/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Light Beige/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Light Beige/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Light Beige/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Light Beige/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Light Beige/Smoke/Vape.png"
             }
           ]
         }
@@ -420,6 +624,15 @@
               "Cards": "/hands/Hands/Light Moon/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Light Moon/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Light Moon/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Light Moon/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Light Moon/Others/Light.png"
             },
             {
@@ -440,9 +653,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Light Moon/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Light Moon/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Light Moon/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Light Moon/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Light Moon/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Light Moon/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Light Moon/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Light Moon/Smoke/Vape.png"
             }
           ]
         }
@@ -484,6 +722,15 @@
               "Cards": "/hands/Hands/Mercury/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Mercury/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Mercury/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Mercury/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Mercury/Others/Light.png"
             },
             {
@@ -504,9 +751,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Mercury/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Mercury/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Mercury/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Mercury/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Mercury/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Mercury/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Mercury/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Mercury/Smoke/Vape.png"
             }
           ]
         }
@@ -548,6 +820,15 @@
               "Cards": "/hands/Hands/Pink Orb/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Pink Orb/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Pink Orb/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Pink Orb/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Pink Orb/Others/Light.png"
             },
             {
@@ -568,9 +849,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Pink Orb/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Pink Orb/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Pink Orb/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Pink Orb/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Pink Orb/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Pink Orb/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Pink Orb/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Pink Orb/Smoke/Vape.png"
             }
           ]
         }
@@ -612,6 +918,15 @@
               "Cards": "/hands/Hands/Purple Orb/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Purple Orb/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Purple Orb/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Purple Orb/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Purple Orb/Others/Light.png"
             },
             {
@@ -632,9 +947,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Purple Orb/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Purple Orb/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Purple Orb/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Purple Orb/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Purple Orb/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Purple Orb/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Purple Orb/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Purple Orb/Smoke/Vape.png"
             }
           ]
         }
@@ -676,6 +1016,15 @@
               "Cards": "/hands/Hands/Tattooed Body/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Tattooed Body/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Tattooed Body/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Tattooed Body/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Tattooed Body/Others/Light.png"
             },
             {
@@ -696,9 +1045,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Tattooed Body/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Tattooed Body/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Tattooed Body/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Tattooed Body/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Tattooed Body/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Tattooed Body/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Tattooed Body/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Tattooed Body/Smoke/Vape.png"
             }
           ]
         }
@@ -740,6 +1114,15 @@
               "Cards": "/hands/Hands/Vascuar Body/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/Vascuar Body/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Vascuar Body/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Vascuar Body/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/Vascuar Body/Others/Light.png"
             },
             {
@@ -760,9 +1143,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Vascuar Body/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Vascuar Body/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Vascuar Body/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Vascuar Body/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/Vascuar Body/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Vascuar Body/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Vascuar Body/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Vascuar Body/Smoke/Vape.png"
             }
           ]
         }
@@ -804,6 +1212,15 @@
               "Cards": "/hands/Hands/X-rayed Body/Others/Cards.png"
             },
             {
+              "Cotton Candy": "/hands/Hands/X-rayed Body/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/X-rayed Body/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/X-rayed Body/Others/GN.png"
+            },
+            {
               "Light": "/hands/Hands/X-rayed Body/Others/Light.png"
             },
             {
@@ -821,9 +1238,34 @@
           ]
         },
         {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/X-rayed Body/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/X-rayed Body/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/X-rayed Body/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/X-rayed Body/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
           "Smoke": [
             {
               "Cigar": "/hands/Hands/X-rayed Body/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/X-rayed Body/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/X-rayed Body/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/X-rayed Body/Smoke/Vape.png"
             }
           ]
         }

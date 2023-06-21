@@ -58,14 +58,14 @@ body::-webkit-scrollbar-track {
 
 body::-webkit-scrollbar {
   
-  width: 12px;
-  background-color: #EE9CA6 !important;
+  width: 10px;
+  background-color: #C81E54 !important;
 }
 
 
 
 body::-webkit-scrollbar-thumb {
-  background-color:#EE9CA6 !important;
+  background-color:#C81E54 !important;
 
  
 }

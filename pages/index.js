@@ -67,7 +67,7 @@ export default function Index() {
 
       <div className="p-5 bg-center min-h-screen  flex flex-col gap-4 justify-between bg-cover bg-no-repeat bg-static bg-fixed backdrop-brightness-50  bg-[url('/bg1.png')]">
         <div className=" w-full px-5 md:w-1/2 mx-auto h-fit flex flex-col gap-10">
-          <div className="my-20 ">
+          <div className="my-20 pointer-events-none select-none ">
             <Image
               placeholder="blur"
               src="/gm.png"
@@ -75,9 +75,9 @@ export default function Index() {
               height={500}
               alt="Picture of the author"
               blurDataURL="/blur.png"
-              className="object-contain  w-full  mx-auto"
+              className="object-contain w-full  mx-auto"
             />
-            <p className="lg:text-xl  md:text-lg text-base text-center   text-[#F3FCFF] font-display font-semibold">
+            <p className="lg:text-xl  md:text-lg text-base text-center mt-2   text-[#F3FCFF] font-display font-semibold">
               Powered by FADA Labs
             </p>
           </div>
@@ -92,7 +92,7 @@ export default function Index() {
                   e.target.value = e.target.value.slice(0, 9);
                 }
               }}
-              placeholder="Enter Your #ID"
+              placeholder="Enter Your Fayden #Number"
               className="text-center focus:outline-none w-full lg:w-1/2 lg:text-2xl md:text-xl text-lg px-5 py-3 rounded-xl focus:shadow-lg [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
               type="number"
             />

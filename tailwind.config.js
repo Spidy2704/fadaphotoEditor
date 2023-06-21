@@ -10,8 +10,8 @@ module.exports = {
         sans: ["Work Sans", "sans-serif"],
       },
       colors: {
-        primary: "#EE9CA6",
-        primary2:"#EE9CA6"
+        primary: "#C81E54",
+        primary2:"#C81E54"
    
       },
       boxShadow: {
