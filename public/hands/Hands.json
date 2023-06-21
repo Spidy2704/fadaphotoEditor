@@ -1,0 +1,1275 @@
+{
+  "Hands": [
+    {
+      "Android": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Android/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Android/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Android/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Android/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Android/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Android/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Android/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Android/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Android/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Android/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Android/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Android/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Android/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Android/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Android/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Android/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Android/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Android/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Android/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Android/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Android/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Android/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Android/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Android/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Android/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Android/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Blue Orb": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Blue Orb/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Blue Orb/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Blue Orb/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Blue Orb/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Blue Orb/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Blue Orb/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Blue Orb/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Blue Orb/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Blue Orb/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Blue Orb/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Blue Orb/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Blue Orb/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Blue Orb/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Blue Orb/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Blue Orb/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Blue Orb/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Blue Orb/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Blue Orb/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Blue Orb/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Blue Orb/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Blue Orb/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Blue Orb/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Blue Orb/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Blue Orb/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Blue Orb/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Blue Orb/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Cyborg": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Cyborg/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Cyborg/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Cyborg/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Cyborg/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Cyborg/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Cyborg/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Cyborg/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Cyborg/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Cyborg/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Cyborg/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Cyborg/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Cyborg/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Cyborg/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Cyborg/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Cyborg/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Cyborg/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Cyborg/Others/Phone.png"
+            },
+            {
+              "Speaker_": "/hands/Hands/Cyborg/Others/Speaker_.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Cyborg/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Cyborg/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Cyborg/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Cyborg/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Cyborg/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Cyborg/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Cyborg/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Cyborg/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Dark Beige": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Dark Beige/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Dark Beige/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Dark Beige/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Dark Beige/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Dark Beige/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Dark Beige/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Dark Beige/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Dark Beige/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Dark Beige/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Dark Beige/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Dark Beige/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Dark Beige/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Dark Beige/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Dark Beige/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Dark Beige/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Dark Beige/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Dark Beige/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Dark Beige/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Dark Beige/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Dark Beige/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Dark Beige/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Dark Beige/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Dark Beige/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Dark Beige/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Dark Beige/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Dark Beige/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Exalted": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Exalted/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Exalted/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Exalted/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Exalted/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Exalted/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Exalted/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Exalted/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Exalted/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Exalted/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Exalted/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Exalted/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Exalted/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Exalted/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Exalted/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Exalted/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Exalted/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Exalted/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Exalted/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Exalted/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Exalted/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Exalted/Signs/LFG.png"
+            },
+            {
+              "Sweeo": "/hands/Hands/Exalted/Signs/Sweeo.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Exalted/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Exalted/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Exalted/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Exalted/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Light Beige": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Light Beige/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Light Beige/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Light Beige/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Light Beige/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Light Beige/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Light Beige/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Light Beige/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Light Beige/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Light Beige/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Light Beige/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Light Beige/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Light Beige/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Light Beige/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Light Beige/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Light Beige/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Light Beige/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Light Beige/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Light Beige/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Light Beige/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Light Beige/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Light Beige/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Light Beige/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Light Beige/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Light Beige/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Light Beige/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Light Beige/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Light Moon": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Light Moon/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Light Moon/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Light Moon/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Light Moon/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Light Moon/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Light Moon/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Light Moon/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Light Moon/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Light Moon/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Light Moon/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Light Moon/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Light Moon/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Light Moon/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Light Moon/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Light Moon/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Light Moon/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Light Moon/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Light Moon/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Light Moon/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Light Moon/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Light Moon/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Light Moon/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Light Moon/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Light Moon/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Light Moon/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Light Moon/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Mercury": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Mercury/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Mercury/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Mercury/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Mercury/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Mercury/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Mercury/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Mercury/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Mercury/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Mercury/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Mercury/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Mercury/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Mercury/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Mercury/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Mercury/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Mercury/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Mercury/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Mercury/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Mercury/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Mercury/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Mercury/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Mercury/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Mercury/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Mercury/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Mercury/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Mercury/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Mercury/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Pink Orb": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Pink Orb/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Pink Orb/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Pink Orb/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Pink Orb/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Pink Orb/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Pink Orb/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Pink Orb/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Pink Orb/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Pink Orb/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Pink Orb/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Pink Orb/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Pink Orb/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Pink Orb/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Pink Orb/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Pink Orb/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Pink Orb/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Pink Orb/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Pink Orb/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Pink Orb/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Pink Orb/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Pink Orb/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Pink Orb/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Pink Orb/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Pink Orb/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Pink Orb/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Pink Orb/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Purple Orb": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Purple Orb/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Purple Orb/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Purple Orb/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Purple Orb/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Purple Orb/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Purple Orb/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Purple Orb/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Purple Orb/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Purple Orb/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Purple Orb/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Purple Orb/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Purple Orb/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Purple Orb/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Purple Orb/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Purple Orb/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Purple Orb/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Purple Orb/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Purple Orb/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Purple Orb/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Purple Orb/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Purple Orb/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Purple Orb/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Purple Orb/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Purple Orb/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Purple Orb/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Purple Orb/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Tattooed Body": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Tattooed Body/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Tattooed Body/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Tattooed Body/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Tattooed Body/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Tattooed Body/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Tattooed Body/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Tattooed Body/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Tattooed Body/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Tattooed Body/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Tattooed Body/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Tattooed Body/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Tattooed Body/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Tattooed Body/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Tattooed Body/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Tattooed Body/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Tattooed Body/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Tattooed Body/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Tattooed Body/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Tattooed Body/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Tattooed Body/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Tattooed Body/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Tattooed Body/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Tattooed Body/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Tattooed Body/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Tattooed Body/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Tattooed Body/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Vascuar Body": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/Vascuar Body/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/Vascuar Body/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/Vascuar Body/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Vascuar Body/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/Vascuar Body/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/Vascuar Body/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/Vascuar Body/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/Vascuar Body/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/Vascuar Body/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/Vascuar Body/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/Vascuar Body/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/Vascuar Body/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/Vascuar Body/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/Vascuar Body/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/Vascuar Body/Others/Mic.png"
+            },
+            {
+              "Paper Hand": "/hands/Hands/Vascuar Body/Others/Paper Hand.png"
+            },
+            {
+              "Phone": "/hands/Hands/Vascuar Body/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/Vascuar Body/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/Vascuar Body/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/Vascuar Body/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/Vascuar Body/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/Vascuar Body/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/Vascuar Body/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/Vascuar Body/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/Vascuar Body/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/Vascuar Body/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "X-rayed Body": [
+        {
+          "Drinks": [
+            {
+              "Beer": "/hands/Hands/X-rayed Body/Drinks/Beer.png"
+            },
+            {
+              "GM Can": "/hands/Hands/X-rayed Body/Drinks/GM Can.png"
+            },
+            {
+              "GM Coffe": "/hands/Hands/X-rayed Body/Drinks/GM Coffe.png"
+            },
+            {
+              "Whisky": "/hands/Hands/X-rayed Body/Drinks/Whisky.png"
+            }
+          ]
+        },
+        {
+          "Others": [
+            {
+              "Brushes": "/hands/Hands/X-rayed Body/Others/Brushes.png"
+            },
+            {
+              "Build": "/hands/Hands/X-rayed Body/Others/Build.png"
+            },
+            {
+              "Cam": "/hands/Hands/X-rayed Body/Others/Cam.png"
+            },
+            {
+              "Car Keys": "/hands/Hands/X-rayed Body/Others/Car Keys.png"
+            },
+            {
+              "Cards": "/hands/Hands/X-rayed Body/Others/Cards.png"
+            },
+            {
+              "Cotton Candy": "/hands/Hands/X-rayed Body/Others/Cotton Candy.png"
+            },
+            {
+              "Figurine": "/hands/Hands/X-rayed Body/Others/Figurine.png"
+            },
+            {
+              "GN": "/hands/Hands/X-rayed Body/Others/GN.png"
+            },
+            {
+              "Light": "/hands/Hands/X-rayed Body/Others/Light.png"
+            },
+            {
+              "Lollipop": "/hands/Hands/X-rayed Body/Others/Lollipop.png"
+            },
+            {
+              "Mic": "/hands/Hands/X-rayed Body/Others/Mic.png"
+            },
+            {
+              "Phone": "/hands/Hands/X-rayed Body/Others/Phone.png"
+            },
+            {
+              "Speaker": "/hands/Hands/X-rayed Body/Others/Speaker.png"
+            }
+          ]
+        },
+        {
+          "Signs": [
+            {
+              "BAF": "/hands/Hands/X-rayed Body/Signs/BAF.png"
+            },
+            {
+              "GM mfers": "/hands/Hands/X-rayed Body/Signs/GM mfers.png"
+            },
+            {
+              "LFG": "/hands/Hands/X-rayed Body/Signs/LFG.png"
+            },
+            {
+              "Sweep": "/hands/Hands/X-rayed Body/Signs/Sweep.png"
+            }
+          ]
+        },
+        {
+          "Smoke": [
+            {
+              "Cigar": "/hands/Hands/X-rayed Body/Smoke/Cigar.png"
+            },
+            {
+              "Iqos": "/hands/Hands/X-rayed Body/Smoke/Iqos.png"
+            },
+            {
+              "Pipe": "/hands/Hands/X-rayed Body/Smoke/Pipe.png"
+            },
+            {
+              "Vape": "/hands/Hands/X-rayed Body/Smoke/Vape.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
