@@ -13,9 +13,9 @@ import { useState, useEffect } from "react";
 import Layout from "../components/Layout/Layout";
 
 function MyApp({ Component, pageProps, router }) {
-  //   console.log = function () {};
-  //   console.warn = function () {};
-  //   console.error = function () {};
+    console.log = function () {};
+    console.warn = function () {};
+    console.error = function () {};
 
 console.log("Docker file check")
 
