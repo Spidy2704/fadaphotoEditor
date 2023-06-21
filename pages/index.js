@@ -92,7 +92,7 @@ export default function Index() {
                   e.target.value = e.target.value.slice(0, 9);
                 }
               }}
-              placeholder="Enter Your #ID Here"
+              placeholder="Enter Your #ID"
               className="text-center focus:outline-none w-full lg:w-1/2 lg:text-2xl md:text-xl text-lg px-5 py-3 rounded-xl focus:shadow-lg [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
               type="number"
             />
