@@ -42,12 +42,13 @@ export default function Hands({ avatarValue, name,setActiveOverlay,activeOverlay
               className="border  overflow-clip border-primary"
             >
               <AccordionSummary
-                className="bg-primary"
-                expandIcon={<ExpandMoreIcon className="text-white" />}
+                className={`${Object.keys(item)[0] == 'New Arrivals!' ? 'bg-[#F3FCFF]' : 'bg-primary'} `}
+                // New Arrivals!
+                expandIcon={<ExpandMoreIcon className={`${Object.keys(item)[0] == 'New Arrivals!' ? 'text-[#9F1B4C]' : 'text-white'} `} />}
                 aria-controls={`panel${index}-content`}
                 id={`panel${index}-header`}
               >
-                <p className="lg:text-lg text-base font-bold text-white">{`${Object.keys(item)[0]}`}</p>
+                <p className={`lg:text-lg text-base font-bold  ${Object.keys(item)[0] == 'New Arrivals!' ? 'text-[#9F1B4C]' : 'text-white'} `}>{`${Object.keys(item)[0]}`}</p>
               </AccordionSummary>
               <AccordionDetails >
                 <ImageSmall setActiveOverlay={setActiveOverlay} activeOverlay={activeOverlay} item={item} avatarValue={avatarValue} />
