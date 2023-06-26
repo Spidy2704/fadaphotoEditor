@@ -102,6 +102,13 @@
               "Vape": "/hands/Hands/Android/Smoke/Vape.png"
             }
           ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "future": "/hands/Hands/Android/Taco Tuesday/future.png"
+            }
+          ]
         }
       ]
     },
@@ -205,6 +212,13 @@
             },
             {
               "Vape": "/hands/Hands/Blue Orb/Smoke/Vape.png"
+            }
+          ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Blue Orb/Taco Tuesday/Tacos.png"
             }
           ]
         }
@@ -312,6 +326,13 @@
               "Vape": "/hands/Hands/Cyborg/Smoke/Vape.png"
             }
           ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Cyborg/Taco Tuesday/Tacos.png"
+            }
+          ]
         }
       ]
     },
@@ -415,6 +436,13 @@
             },
             {
               "Vape": "/hands/Hands/Dark Beige/Smoke/Vape.png"
+            }
+          ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Dark Beige/Taco Tuesday/Tacos.png"
             }
           ]
         }
@@ -522,6 +550,13 @@
               "Vape": "/hands/Hands/Exalted/Smoke/Vape.png"
             }
           ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Exalted/Taco Tuesday/Tacos.png"
+            }
+          ]
         }
       ]
     },
@@ -625,6 +660,13 @@
             },
             {
               "Vape": "/hands/Hands/Light Beige/Smoke/Vape.png"
+            }
+          ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Light Beige/Taco Tuesday/Tacos.png"
             }
           ]
         }
@@ -732,6 +774,13 @@
               "Vape": "/hands/Hands/Light Moon/Smoke/Vape.png"
             }
           ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Light Moon/Taco Tuesday/Tacos.png"
+            }
+          ]
         }
       ]
     },
@@ -835,6 +884,13 @@
             },
             {
               "Vape": "/hands/Hands/Mercury/Smoke/Vape.png"
+            }
+          ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Mercury/Taco Tuesday/Tacos.png"
             }
           ]
         }
@@ -942,6 +998,13 @@
               "Vape": "/hands/Hands/Pink Orb/Smoke/Vape.png"
             }
           ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Pink Orb/Taco Tuesday/Tacos.png"
+            }
+          ]
         }
       ]
     },
@@ -1045,6 +1108,13 @@
             },
             {
               "Vape": "/hands/Hands/Purple Orb/Smoke/Vape.png"
+            }
+          ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Purple Orb/Taco Tuesday/Tacos.png"
             }
           ]
         }
@@ -1152,6 +1222,13 @@
               "Vape": "/hands/Hands/Tattooed Body/Smoke/Vape.png"
             }
           ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Tattooed Body/Taco Tuesday/Tacos.png"
+            }
+          ]
         }
       ]
     },
@@ -1257,6 +1334,13 @@
               "Vape": "/hands/Hands/Vascuar Body/Smoke/Vape.png"
             }
           ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos": "/hands/Hands/Vascuar Body/Taco Tuesday/Tacos.png"
+            }
+          ]
         }
       ]
     },
@@ -1357,6 +1441,13 @@
             },
             {
               "Vape": "/hands/Hands/X-rayed Body/Smoke/Vape.png"
+            }
+          ]
+        },
+        {
+          "Taco Tuesday": [
+            {
+              "Tacos_": "/hands/Hands/X-rayed Body/Taco Tuesday/Tacos_.png"
             }
           ]
         }
