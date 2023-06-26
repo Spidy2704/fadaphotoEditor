@@ -1,5 +1,5 @@
 # pull the official base image
-FROM node:16
+FROM 845716118592.dkr.ecr.us-east-1.amazonaws.com/node:latest
 
 # set your working directory
 WORKDIR /usr/src/app
