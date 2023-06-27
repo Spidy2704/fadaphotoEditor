@@ -106,9 +106,12 @@
         {
           "Taco Tuesday": [
             {
-              "future": "/hands/Hands/Android/Taco Tuesday/future.png"
+              "Tacos": "/hands/Hands/Android/Taco Tuesday/Tacos.png"
             }
           ]
+        },
+        {
+          "Taco Tuesday_": []
         }
       ]
     },
@@ -1447,7 +1450,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos_": "/hands/Hands/X-rayed Body/Taco Tuesday/Tacos_.png"
+              "Tacos": "/hands/Hands/X-rayed Body/Taco Tuesday/Tacos.png"
             }
           ]
         }
