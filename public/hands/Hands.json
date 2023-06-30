@@ -5,7 +5,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Android/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Android/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Android/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Android/1.New Arrivals!/POLY.png"
@@ -123,10 +126,13 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Blue Orb/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Blue Orb/1.New Arrivals!/Free Mint.png"
             },
             {
               "It_s on Polygon": "/hands/Hands/Blue Orb/1.New Arrivals!/It_s on Polygon.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Blue Orb/1.New Arrivals!/New Mint Date.png"
             },
             {
               "W": "/hands/Hands/Blue Orb/1.New Arrivals!/W.png"
@@ -241,7 +247,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Cyborg/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Cyborg/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Cyborg/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Cyborg/1.New Arrivals!/POLY.png"
@@ -359,7 +368,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Dark Beige/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Dark Beige/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Dark Beige/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Dark Beige/1.New Arrivals!/POLY.png"
@@ -418,48 +430,48 @@
           ]
         },
         {
-          "5,Others": [
+          "5.Others": [
             {
-              "Brushes": "/hands/Hands/Dark Beige/5,Others/Brushes.png"
+              "Brushes": "/hands/Hands/Dark Beige/5.Others/Brushes.png"
             },
             {
-              "Build": "/hands/Hands/Dark Beige/5,Others/Build.png"
+              "Build": "/hands/Hands/Dark Beige/5.Others/Build.png"
             },
             {
-              "Cam": "/hands/Hands/Dark Beige/5,Others/Cam.png"
+              "Cam": "/hands/Hands/Dark Beige/5.Others/Cam.png"
             },
             {
-              "Car Keys": "/hands/Hands/Dark Beige/5,Others/Car Keys.png"
+              "Car Keys": "/hands/Hands/Dark Beige/5.Others/Car Keys.png"
             },
             {
-              "Cards": "/hands/Hands/Dark Beige/5,Others/Cards.png"
+              "Cards": "/hands/Hands/Dark Beige/5.Others/Cards.png"
             },
             {
-              "Cotton Candy": "/hands/Hands/Dark Beige/5,Others/Cotton Candy.png"
+              "Cotton Candy": "/hands/Hands/Dark Beige/5.Others/Cotton Candy.png"
             },
             {
-              "Figurine": "/hands/Hands/Dark Beige/5,Others/Figurine.png"
+              "Figurine": "/hands/Hands/Dark Beige/5.Others/Figurine.png"
             },
             {
-              "GN": "/hands/Hands/Dark Beige/5,Others/GN.png"
+              "GN": "/hands/Hands/Dark Beige/5.Others/GN.png"
             },
             {
-              "Light": "/hands/Hands/Dark Beige/5,Others/Light.png"
+              "Light": "/hands/Hands/Dark Beige/5.Others/Light.png"
             },
             {
-              "Lollipop": "/hands/Hands/Dark Beige/5,Others/Lollipop.png"
+              "Lollipop": "/hands/Hands/Dark Beige/5.Others/Lollipop.png"
             },
             {
-              "Mic": "/hands/Hands/Dark Beige/5,Others/Mic.png"
+              "Mic": "/hands/Hands/Dark Beige/5.Others/Mic.png"
             },
             {
-              "Paper Hand": "/hands/Hands/Dark Beige/5,Others/Paper Hand.png"
+              "Paper Hand": "/hands/Hands/Dark Beige/5.Others/Paper Hand.png"
             },
             {
-              "Phone": "/hands/Hands/Dark Beige/5,Others/Phone.png"
+              "Phone": "/hands/Hands/Dark Beige/5.Others/Phone.png"
             },
             {
-              "Speaker": "/hands/Hands/Dark Beige/5,Others/Speaker.png"
+              "Speaker": "/hands/Hands/Dark Beige/5.Others/Speaker.png"
             }
           ]
         },
@@ -477,7 +489,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Exalted/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Exalted/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Exalted/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Exalted/1.New Arrivals!/POLY.png"
@@ -595,7 +610,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Light Beige/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Light Beige/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Light Beige/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Light Beige/1.New Arrivals!/POLY.png"
@@ -713,7 +731,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Light Moon/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Light Moon/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Light Moon/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Light Moon/1.New Arrivals!/POLY.png"
@@ -831,7 +852,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Mercury/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Mercury/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Mercury/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Mercury/1.New Arrivals!/POLY.png"
@@ -949,7 +973,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Pink Orb/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Pink Orb/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Pink Orb/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Pink Orb/1.New Arrivals!/POLY.png"
@@ -1059,6 +1086,9 @@
               "Taco": "/hands/Hands/Pink Orb/6.Taco Tuesday/Taco.png"
             }
           ]
+        },
+        {
+          "pink": "/hands/Hands/Pink Orb/pink.png"
         }
       ]
     },
@@ -1067,7 +1097,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Purple Orb/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Purple Orb/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Purple Orb/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Purple Orb/1.New Arrivals!/POLY.png"
@@ -1185,7 +1218,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Tattooed Body/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Tattooed Body/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Tattooed Body/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Tattooed Body/1.New Arrivals!/POLY.png"
@@ -1303,7 +1339,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/Vascuar Body/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/Vascuar Body/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/Vascuar Body/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/Vascuar Body/1.New Arrivals!/POLY.png"
@@ -1421,7 +1460,10 @@
         {
           "1.New Arrivals!": [
             {
-              "FREE MINT": "/hands/Hands/X-rayed Body/1.New Arrivals!/FREE MINT.png"
+              "Free Mint": "/hands/Hands/X-rayed Body/1.New Arrivals!/Free Mint.png"
+            },
+            {
+              "New Mint Date": "/hands/Hands/X-rayed Body/1.New Arrivals!/New Mint Date.png"
             },
             {
               "POLY": "/hands/Hands/X-rayed Body/1.New Arrivals!/POLY.png"
