@@ -22,6 +22,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Android/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Android/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Android/New Arrivals!/W.png"
             }
           ]
         },
@@ -111,7 +117,11 @@
           ]
         },
         {
-          "Taco Tuesday_": []
+          "Taco Tuesday_": [
+            {
+              "Taco": "/hands/Hands/Android/Taco Tuesday_/Taco.png"
+            }
+          ]
         }
       ]
     },
@@ -137,6 +147,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Blue Orb/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "It_s on Polygon": "/hands/Hands/Blue Orb/New Arrivals!/It_s on Polygon.png"
+            },
+            {
+              "W": "/hands/Hands/Blue Orb/New Arrivals!/W.png"
             }
           ]
         },
@@ -221,7 +237,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Blue Orb/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Blue Orb/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -249,6 +265,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Cyborg/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Cyborg/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Cyborg/New Arrivals!/W.png"
             }
           ]
         },
@@ -333,7 +355,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Cyborg/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Cyborg/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -361,6 +383,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Dark Beige/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Dark Beige/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Dark Beige/New Arrivals!/W.png"
             }
           ]
         },
@@ -445,7 +473,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Dark Beige/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Dark Beige/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -473,6 +501,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Exalted/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Exalted/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Exalted/New Arrivals!/W.png"
             }
           ]
         },
@@ -557,7 +591,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Exalted/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Exalted/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -585,6 +619,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Light Beige/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Light Beige/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Light Beige/New Arrivals!/W.png"
             }
           ]
         },
@@ -669,7 +709,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Light Beige/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Light Beige/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -697,6 +737,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Light Moon/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Light Moon/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Light Moon/New Arrivals!/W.png"
             }
           ]
         },
@@ -781,7 +827,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Light Moon/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Light Moon/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -809,6 +855,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Mercury/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Mercury/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Mercury/New Arrivals!/W.png"
             }
           ]
         },
@@ -893,7 +945,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Mercury/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Mercury/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -921,6 +973,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Pink Orb/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Pink Orb/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Pink Orb/New Arrivals!/W.png"
             }
           ]
         },
@@ -1005,7 +1063,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Pink Orb/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Pink Orb/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -1033,6 +1091,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Purple Orb/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Purple Orb/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Purple Orb/New Arrivals!/W.png"
             }
           ]
         },
@@ -1117,7 +1181,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Purple Orb/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Purple Orb/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -1145,6 +1209,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Tattooed Body/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Tattooed Body/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Tattooed Body/New Arrivals!/W.png"
             }
           ]
         },
@@ -1229,7 +1299,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Tattooed Body/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Tattooed Body/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -1257,6 +1327,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/Vascuar Body/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/Vascuar Body/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/Vascuar Body/New Arrivals!/W.png"
             }
           ]
         },
@@ -1341,7 +1417,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/Vascuar Body/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/Vascuar Body/Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -1369,6 +1445,12 @@
           "New Arrivals!": [
             {
               "FREE MINT": "/hands/Hands/X-rayed Body/New Arrivals!/FREE MINT.png"
+            },
+            {
+              "POLY": "/hands/Hands/X-rayed Body/New Arrivals!/POLY.png"
+            },
+            {
+              "W": "/hands/Hands/X-rayed Body/New Arrivals!/W.png"
             }
           ]
         },
@@ -1450,7 +1532,7 @@
         {
           "Taco Tuesday": [
             {
-              "Tacos": "/hands/Hands/X-rayed Body/Taco Tuesday/Tacos.png"
+              "Taco": "/hands/Hands/X-rayed Body/Taco Tuesday/Taco.png"
             }
           ]
         }
