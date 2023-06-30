@@ -55,7 +55,7 @@ export default function Hands({
                 className={`${
                   Object.keys(item)[0] === "New Arrivals!"
                     ? "bg-[#F3FCFF]"
-                    : Object.keys(item)[0] === "Taco Tuesday"
+                    : Object.keys(item)[0].substring(Object.keys(item)[0].indexOf('.') + 1) === "Taco Tuesday"
                     ? isTuesday()
                       ? "bg-green-700"
                       : "hidden" // Hide the section if it's not Tuesday
