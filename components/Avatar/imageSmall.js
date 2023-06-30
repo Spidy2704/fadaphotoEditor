@@ -7,7 +7,7 @@ export default function imageSmall({
   setActiveOverlay,
   activeOverlay,
 }) {
-  console.log("|1231231",activeOverlay);
+  console.log("|1231231", activeOverlay);
 
   return (
     <div>
@@ -19,7 +19,11 @@ export default function imageSmall({
           {value.map((image, index) => (
             <div
               key={index}
-              className={`relative cursor-pointer rounded-2xl overflow-hidden bg-primary duration-300  ${activeOverlay == Object.values(image)[0] ? "border-2 border-black" : "hover:shadow-xl hover:border"}`}
+              className={`relative cursor-pointer rounded-2xl overflow-hidden bg-primary duration-300  ${
+                activeOverlay == Object.values(image)[0]
+                  ? "border-2 border-black"
+                  : "hover:shadow-xl hover:border"
+              }`}
               onClick={() => {
                 setActiveOverlay(Object.values(image)[0]);
               }}
@@ -28,7 +32,7 @@ export default function imageSmall({
                 width={200}
                 height={200}
                 key={index}
-                src={avatarValue}
+                src={`${avatarValue}?timestamp=${Date.now()}`}
                 alt="Main"
                 className="w-full object-contain"
               />
@@ -36,12 +40,15 @@ export default function imageSmall({
                 width={200}
                 height={200}
                 key={index}
-                src={Object.values(image)[0]}
+                src={`${Object.values(image)[0]}?timestamp=${Date.now()}`}
                 alt={Object.keys(image)[0]}
                 className="absolute  top-0 w-full object-contain"
               />
               <p className="text-center font-bold py-3 px-2 text-white">
-                {Object.values(image)[0].split("/").pop().split(".")[0]}
+                {Object.values(image)[0]
+                  .split("/")
+                  .pop()
+                  .split(".")[0]}
               </p>
             </div>
           ))}
