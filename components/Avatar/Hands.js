@@ -18,6 +18,9 @@ export default function Hands({
   console.log("name", name);
 
   const handleChange = (panel) => (event, isExpanded) => {
+    if (isExpanded && isTacoTuesdayLocked(panel)) {
+      return; // Don't allow expansion if it's Taco Tuesday and it's locked
+    }
     setExpanded(isExpanded ? panel : null);
   };
 
@@ -40,35 +43,49 @@ export default function Hands({
     return currentDate.getDay() === 2; // Tuesday is represented by the value 2 (0 for Sunday, 1 for Monday, and so on)
   };
 
+  const isTacoTuesdayLocked = (panel) => {
+    const panelIndex = Number(panel.substring(5)); // Extract the index from the panel string
+    const item = handtomap[panelIndex];
+    return (
+      Object.keys(item)[0] === "Taco Tuesday" && !isTuesday() // Check if it's the "Taco Tuesday" section and it's not Tuesday
+    );
+  };
+
   return (
-    <div className="w-full ">
-      <div className="grid grid-cols-1 gap-4 overflow-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-transparent ">
+    <div className="w-full">
+      <div className="grid grid-cols-1 gap-4 overflow-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-transparent">
         {handtomap.length > 0 ? (
           handtomap.map((item, index) => (
             <Accordion
               key={index}
               expanded={expanded === `panel${index}`}
               onChange={handleChange(`panel${index}`)}
-              className="  overflow-clip "
+              className={`overflow-clip ${
+                Object.keys(item)[0].substring(Object.keys(item)[0].indexOf(".") + 1) === "Taco Tuesday" &&
+                !isTuesday()
+                  ? "bg-gray-300" // Set the locked section's background color to gray
+                  : ""
+              }`}
+              disabled={Object.keys(item)[0].substring(Object.keys(item)[0].indexOf(".") + 1) === "Taco Tuesday" && !isTuesday()}
+              // Disable the Accordion if it's Taco Tuesday and it's not Tuesday
             >
               <AccordionSummary
                 className={`${
-                  Object.keys(item)[0] === "New Arrivals!"
+                  Object.keys(item)[0].substring(Object.keys(item)[0].indexOf(".") + 1) === "New Arrivals!"
                     ? "bg-[#F3FCFF]"
-                    : Object.keys(item)[0].substring(Object.keys(item)[0].indexOf('.') + 1) === "Taco Tuesday"
+                    : Object.keys(item)[0].substring(Object.keys(item)[0].indexOf(".") + 1) === "Taco Tuesday"
                     ? isTuesday()
                       ? "bg-green-700"
-                      : "hidden" // Hide the section if it's not Tuesday
+                      : "" // Remove the "hidden" class to make it always visible
                     : "bg-primary"
-                } `}
-                // New Arrivals!
+                }`}
                 expandIcon={
                   <ExpandMoreIcon
                     className={`${
-                      Object.keys(item)[0] === "New Arrivals!"
+                      Object.keys(item)[0].substring(Object.keys(item)[0].indexOf(".") + 1) === "New Arrivals!"
                         ? "text-[#9F1B4C]"
                         : "text-white"
-                    } `}
+                    }`}
                   />
                 }
                 aria-controls={`panel${index}-content`}
@@ -76,17 +93,18 @@ export default function Hands({
               >
                 <p
                   className={`lg:text-lg text-base font-bold ${
-                    Object.keys(item)[0] === "New Arrivals!"
+                    Object.keys(item)[0].substring(Object.keys(item)[0].indexOf(".") + 1) === "New Arrivals!"
                       ? "text-[#9F1B4C]"
                       : "text-white"
                   }`}
                 >
-                  {/* {`${Object.keys(item)[0]}`} */}
-                  {Object.keys(item)[0].substring(Object.keys(item)[0].indexOf('.') + 1)}
+                  {Object.keys(item)[0].substring(Object.keys(item)[0].indexOf(".") + 1)}
 
-                  {Object.keys(item)[0] === "Taco Tuesday" && isTuesday() && (
-                    <span>&#127790; (Available Only on Tuesdays)</span>
-                  )}
+                  {Object.keys(item)[0].substring(Object.keys(item)[0].indexOf(".") + 1) &&
+                    Object.keys(item)[0].substring(Object.keys(item)[0].indexOf(".") + 1) === "Taco Tuesday" &&
+                  
+                      <span>&#127790; (Available Only on Tuesdays)</span>
+                    }
                 </p>
               </AccordionSummary>
               <AccordionDetails>
