@@ -81,7 +81,9 @@ export default function Hands({
                       : "text-white"
                   }`}
                 >
-                  {`${Object.keys(item)[0]}`}{" "}
+                  {/* {`${Object.keys(item)[0]}`} */}
+                  {Object.keys(item)[0].substring(Object.keys(item)[0].indexOf('.') + 1)}
+
                   {Object.keys(item)[0] === "Taco Tuesday" && isTuesday() && (
                     <span>&#127790; (Available Only on Tuesdays)</span>
                   )}
