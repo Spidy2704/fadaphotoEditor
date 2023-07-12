@@ -124,113 +124,113 @@
     {
       "Blue flame head": [
         {
-          "Drinks": [
+          "1.New Arrivals!": [
             {
-              "Beer": "/hands/Hands/Blue flame head/Drinks/Beer.png"
+              "POLY": "/hands/Hands/Blue flame head/1.New Arrivals!/POLY.png"
             },
             {
-              "GM Can": "/hands/Hands/Blue flame head/Drinks/GM Can.png"
-            },
-            {
-              "GM Coffee": "/hands/Hands/Blue flame head/Drinks/GM Coffee.png"
-            },
-            {
-              "Whisky": "/hands/Hands/Blue flame head/Drinks/Whisky.png"
+              "W": "/hands/Hands/Blue flame head/1.New Arrivals!/W.png"
             }
           ]
         },
         {
-          "New Arrivals!": [
+          "2.Drinks": [
             {
-              "POLY": "/hands/Hands/Blue flame head/New Arrivals!/POLY.png"
+              "Beer": "/hands/Hands/Blue flame head/2.Drinks/Beer.png"
             },
             {
-              "W": "/hands/Hands/Blue flame head/New Arrivals!/W.png"
+              "GM Can": "/hands/Hands/Blue flame head/2.Drinks/GM Can.png"
+            },
+            {
+              "GM Coffee": "/hands/Hands/Blue flame head/2.Drinks/GM Coffee.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Blue flame head/2.Drinks/Whisky.png"
             }
           ]
         },
         {
-          "Others": [
+          "3.Others": [
             {
-              "Brushes": "/hands/Hands/Blue flame head/Others/Brushes.png"
+              "Brushes": "/hands/Hands/Blue flame head/3.Others/Brushes.png"
             },
             {
-              "Build": "/hands/Hands/Blue flame head/Others/Build.png"
+              "Build": "/hands/Hands/Blue flame head/3.Others/Build.png"
             },
             {
-              "Cam": "/hands/Hands/Blue flame head/Others/Cam.png"
+              "Cam": "/hands/Hands/Blue flame head/3.Others/Cam.png"
             },
             {
-              "Car Keys": "/hands/Hands/Blue flame head/Others/Car Keys.png"
+              "Car Keys": "/hands/Hands/Blue flame head/3.Others/Car Keys.png"
             },
             {
-              "Cards": "/hands/Hands/Blue flame head/Others/Cards.png"
+              "Cards": "/hands/Hands/Blue flame head/3.Others/Cards.png"
             },
             {
-              "Cotton Candy": "/hands/Hands/Blue flame head/Others/Cotton Candy.png"
+              "Cotton Candy": "/hands/Hands/Blue flame head/3.Others/Cotton Candy.png"
             },
             {
-              "Figurine": "/hands/Hands/Blue flame head/Others/Figurine.png"
+              "Figurine": "/hands/Hands/Blue flame head/3.Others/Figurine.png"
             },
             {
-              "GN": "/hands/Hands/Blue flame head/Others/GN.png"
+              "GN": "/hands/Hands/Blue flame head/3.Others/GN.png"
             },
             {
-              "Light": "/hands/Hands/Blue flame head/Others/Light.png"
+              "Light": "/hands/Hands/Blue flame head/3.Others/Light.png"
             },
             {
-              "Lollipop": "/hands/Hands/Blue flame head/Others/Lollipop.png"
+              "Lollipop": "/hands/Hands/Blue flame head/3.Others/Lollipop.png"
             },
             {
-              "Mic": "/hands/Hands/Blue flame head/Others/Mic.png"
+              "Mic": "/hands/Hands/Blue flame head/3.Others/Mic.png"
             },
             {
-              "Paper Hand": "/hands/Hands/Blue flame head/Others/Paper Hand.png"
+              "Paper Hand": "/hands/Hands/Blue flame head/3.Others/Paper Hand.png"
             },
             {
-              "Phone": "/hands/Hands/Blue flame head/Others/Phone.png"
+              "Phone": "/hands/Hands/Blue flame head/3.Others/Phone.png"
             },
             {
-              "Speaker": "/hands/Hands/Blue flame head/Others/Speaker.png"
+              "Speaker": "/hands/Hands/Blue flame head/3.Others/Speaker.png"
             }
           ]
         },
         {
-          "Signs": [
+          "4.Signs": [
             {
-              "BAF": "/hands/Hands/Blue flame head/Signs/BAF.png"
+              "BAF": "/hands/Hands/Blue flame head/4.Signs/BAF.png"
             },
             {
-              "GM mfers": "/hands/Hands/Blue flame head/Signs/GM mfers.png"
+              "GM mfers": "/hands/Hands/Blue flame head/4.Signs/GM mfers.png"
             },
             {
-              "LFG": "/hands/Hands/Blue flame head/Signs/LFG.png"
+              "LFG": "/hands/Hands/Blue flame head/4.Signs/LFG.png"
             },
             {
-              "Sweep": "/hands/Hands/Blue flame head/Signs/Sweep.png"
+              "Sweep": "/hands/Hands/Blue flame head/4.Signs/Sweep.png"
             }
           ]
         },
         {
-          "Smoke": [
+          "5.Smoke": [
             {
-              "Cigar": "/hands/Hands/Blue flame head/Smoke/Cigar.png"
+              "Cigar": "/hands/Hands/Blue flame head/5.Smoke/Cigar.png"
             },
             {
-              "Iqos": "/hands/Hands/Blue flame head/Smoke/Iqos.png"
+              "Iqos": "/hands/Hands/Blue flame head/5.Smoke/Iqos.png"
             },
             {
-              "Pipe": "/hands/Hands/Blue flame head/Smoke/Pipe.png"
+              "Pipe": "/hands/Hands/Blue flame head/5.Smoke/Pipe.png"
             },
             {
-              "Vape": "/hands/Hands/Blue flame head/Smoke/Vape.png"
+              "Vape": "/hands/Hands/Blue flame head/5.Smoke/Vape.png"
             }
           ]
         },
         {
-          "Taco Tuesday": [
+          "6.Taco Tuesday": [
             {
-              "Taco": "/hands/Hands/Blue flame head/Taco Tuesday/Taco.png"
+              "Taco": "/hands/Hands/Blue flame head/6.Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -723,113 +723,113 @@
     {
       "Ice": [
         {
-          "Drinks": [
+          "1.New Arrivals!": [
             {
-              "Beer": "/hands/Hands/Ice/Drinks/Beer.png"
+              "Ice skin hands": "/hands/Hands/Ice/1.New Arrivals!/Ice skin hands.png"
             },
             {
-              "GM Can": "/hands/Hands/Ice/Drinks/GM Can.png"
-            },
-            {
-              "Ice skin hands": "/hands/Hands/Ice/Drinks/Ice skin hands.png"
-            },
-            {
-              "Whisky": "/hands/Hands/Ice/Drinks/Whisky.png"
+              "W": "/hands/Hands/Ice/1.New Arrivals!/W.png"
             }
           ]
         },
         {
-          "New Arrivals!": [
+          "2.Drinks": [
             {
-              "Ice skin hands": "/hands/Hands/Ice/New Arrivals!/Ice skin hands.png"
+              "Beer": "/hands/Hands/Ice/2.Drinks/Beer.png"
             },
             {
-              "W": "/hands/Hands/Ice/New Arrivals!/W.png"
+              "GM Can": "/hands/Hands/Ice/2.Drinks/GM Can.png"
+            },
+            {
+              "Ice skin hands": "/hands/Hands/Ice/2.Drinks/Ice skin hands.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Ice/2.Drinks/Whisky.png"
             }
           ]
         },
         {
-          "Others": [
+          "3.Others": [
             {
-              "Brushes": "/hands/Hands/Ice/Others/Brushes.png"
+              "Brushes": "/hands/Hands/Ice/3.Others/Brushes.png"
             },
             {
-              "Build": "/hands/Hands/Ice/Others/Build.png"
+              "Build": "/hands/Hands/Ice/3.Others/Build.png"
             },
             {
-              "Cam": "/hands/Hands/Ice/Others/Cam.png"
+              "Cam": "/hands/Hands/Ice/3.Others/Cam.png"
             },
             {
-              "Car Keys": "/hands/Hands/Ice/Others/Car Keys.png"
+              "Car Keys": "/hands/Hands/Ice/3.Others/Car Keys.png"
             },
             {
-              "Cards": "/hands/Hands/Ice/Others/Cards.png"
+              "Cards": "/hands/Hands/Ice/3.Others/Cards.png"
             },
             {
-              "Cotton Candy": "/hands/Hands/Ice/Others/Cotton Candy.png"
+              "Cotton Candy": "/hands/Hands/Ice/3.Others/Cotton Candy.png"
             },
             {
-              "Figurine": "/hands/Hands/Ice/Others/Figurine.png"
+              "Figurine": "/hands/Hands/Ice/3.Others/Figurine.png"
             },
             {
-              "GN": "/hands/Hands/Ice/Others/GN.png"
+              "GN": "/hands/Hands/Ice/3.Others/GN.png"
             },
             {
-              "Light": "/hands/Hands/Ice/Others/Light.png"
+              "Light": "/hands/Hands/Ice/3.Others/Light.png"
             },
             {
-              "Lollipop": "/hands/Hands/Ice/Others/Lollipop.png"
+              "Lollipop": "/hands/Hands/Ice/3.Others/Lollipop.png"
             },
             {
-              "Mic": "/hands/Hands/Ice/Others/Mic.png"
+              "Mic": "/hands/Hands/Ice/3.Others/Mic.png"
             },
             {
-              "Paper Hand": "/hands/Hands/Ice/Others/Paper Hand.png"
+              "Paper Hand": "/hands/Hands/Ice/3.Others/Paper Hand.png"
             },
             {
-              "Phone": "/hands/Hands/Ice/Others/Phone.png"
+              "Phone": "/hands/Hands/Ice/3.Others/Phone.png"
             },
             {
-              "Speaker": "/hands/Hands/Ice/Others/Speaker.png"
+              "Speaker": "/hands/Hands/Ice/3.Others/Speaker.png"
             }
           ]
         },
         {
-          "Signs": [
+          "4.Signs": [
             {
-              "BAF": "/hands/Hands/Ice/Signs/BAF.png"
+              "BAF": "/hands/Hands/Ice/4.Signs/BAF.png"
             },
             {
-              "Gm mfers": "/hands/Hands/Ice/Signs/Gm mfers.png"
+              "Gm mfers": "/hands/Hands/Ice/4.Signs/Gm mfers.png"
             },
             {
-              "LFG": "/hands/Hands/Ice/Signs/LFG.png"
+              "LFG": "/hands/Hands/Ice/4.Signs/LFG.png"
             },
             {
-              "Sweep": "/hands/Hands/Ice/Signs/Sweep.png"
+              "Sweep": "/hands/Hands/Ice/4.Signs/Sweep.png"
             }
           ]
         },
         {
-          "Smoke": [
+          "5.Smoke": [
             {
-              "Cigar": "/hands/Hands/Ice/Smoke/Cigar.png"
+              "Cigar": "/hands/Hands/Ice/5.Smoke/Cigar.png"
             },
             {
-              "Iqos": "/hands/Hands/Ice/Smoke/Iqos.png"
+              "Iqos": "/hands/Hands/Ice/5.Smoke/Iqos.png"
             },
             {
-              "Pipe": "/hands/Hands/Ice/Smoke/Pipe.png"
+              "Pipe": "/hands/Hands/Ice/5.Smoke/Pipe.png"
             },
             {
-              "Vape": "/hands/Hands/Ice/Smoke/Vape.png"
+              "Vape": "/hands/Hands/Ice/5.Smoke/Vape.png"
             }
           ]
         },
         {
-          "Taco Tuesday": [
+          "6.Taco Tuesday": [
             {
-              "Taco": "/hands/Hands/Ice/Taco Tuesday/Taco.png"
+              "Taco": "/hands/Hands/Ice/6.Taco Tuesday/Taco.png"
             }
           ]
         }
@@ -1316,9 +1316,6 @@
               "Taco": "/hands/Hands/Pink Orb/6.Taco Tuesday/Taco.png"
             }
           ]
-        },
-        {
-          "pink": "/hands/Hands/Pink Orb/pink.png"
         }
       ]
     },
@@ -1446,113 +1443,113 @@
     {
       "Red flame head": [
         {
-          "Drinks": [
+          "1.New arrivals!": [
             {
-              "Beer": "/hands/Hands/Red flame head/Drinks/Beer.png"
+              "POLY": "/hands/Hands/Red flame head/1.New arrivals!/POLY.png"
             },
             {
-              "GM Can": "/hands/Hands/Red flame head/Drinks/GM Can.png"
-            },
-            {
-              "GM coffee": "/hands/Hands/Red flame head/Drinks/GM coffee.png"
-            },
-            {
-              "Whisky": "/hands/Hands/Red flame head/Drinks/Whisky.png"
+              "W": "/hands/Hands/Red flame head/1.New arrivals!/W.png"
             }
           ]
         },
         {
-          "New arrivals!": [
+          "2.Drinks": [
             {
-              "POLY": "/hands/Hands/Red flame head/New arrivals!/POLY.png"
+              "Beer": "/hands/Hands/Red flame head/2.Drinks/Beer.png"
             },
             {
-              "W": "/hands/Hands/Red flame head/New arrivals!/W.png"
+              "GM Can": "/hands/Hands/Red flame head/2.Drinks/GM Can.png"
+            },
+            {
+              "GM coffee": "/hands/Hands/Red flame head/2.Drinks/GM coffee.png"
+            },
+            {
+              "Whisky": "/hands/Hands/Red flame head/2.Drinks/Whisky.png"
             }
           ]
         },
         {
-          "Others": [
+          "3.Others": [
             {
-              "Brushes": "/hands/Hands/Red flame head/Others/Brushes.png"
+              "Brushes": "/hands/Hands/Red flame head/3.Others/Brushes.png"
             },
             {
-              "Build": "/hands/Hands/Red flame head/Others/Build.png"
+              "Build": "/hands/Hands/Red flame head/3.Others/Build.png"
             },
             {
-              "Cam": "/hands/Hands/Red flame head/Others/Cam.png"
+              "Cam": "/hands/Hands/Red flame head/3.Others/Cam.png"
             },
             {
-              "Car Keys": "/hands/Hands/Red flame head/Others/Car Keys.png"
+              "Car Keys": "/hands/Hands/Red flame head/3.Others/Car Keys.png"
             },
             {
-              "Cards": "/hands/Hands/Red flame head/Others/Cards.png"
+              "Cards": "/hands/Hands/Red flame head/3.Others/Cards.png"
             },
             {
-              "Cotton Candy": "/hands/Hands/Red flame head/Others/Cotton Candy.png"
+              "Cotton Candy": "/hands/Hands/Red flame head/3.Others/Cotton Candy.png"
             },
             {
-              "Figurine": "/hands/Hands/Red flame head/Others/Figurine.png"
+              "Figurine": "/hands/Hands/Red flame head/3.Others/Figurine.png"
             },
             {
-              "GN": "/hands/Hands/Red flame head/Others/GN.png"
+              "GN": "/hands/Hands/Red flame head/3.Others/GN.png"
             },
             {
-              "Light": "/hands/Hands/Red flame head/Others/Light.png"
+              "Light": "/hands/Hands/Red flame head/3.Others/Light.png"
             },
             {
-              "Lollipop": "/hands/Hands/Red flame head/Others/Lollipop.png"
+              "Lollipop": "/hands/Hands/Red flame head/3.Others/Lollipop.png"
             },
             {
-              "Mic": "/hands/Hands/Red flame head/Others/Mic.png"
+              "Mic": "/hands/Hands/Red flame head/3.Others/Mic.png"
             },
             {
-              "Paper Hand": "/hands/Hands/Red flame head/Others/Paper Hand.png"
+              "Paper Hand": "/hands/Hands/Red flame head/3.Others/Paper Hand.png"
             },
             {
-              "Phone": "/hands/Hands/Red flame head/Others/Phone.png"
+              "Phone": "/hands/Hands/Red flame head/3.Others/Phone.png"
             },
             {
-              "Speaker": "/hands/Hands/Red flame head/Others/Speaker.png"
+              "Speaker": "/hands/Hands/Red flame head/3.Others/Speaker.png"
             }
           ]
         },
         {
-          "Signs": [
+          "4.Signs": [
             {
-              "BAF": "/hands/Hands/Red flame head/Signs/BAF.png"
+              "BAF": "/hands/Hands/Red flame head/4.Signs/BAF.png"
             },
             {
-              "GM mfers": "/hands/Hands/Red flame head/Signs/GM mfers.png"
+              "GM mfers": "/hands/Hands/Red flame head/4.Signs/GM mfers.png"
             },
             {
-              "LFG": "/hands/Hands/Red flame head/Signs/LFG.png"
+              "LFG": "/hands/Hands/Red flame head/4.Signs/LFG.png"
             },
             {
-              "Sweep": "/hands/Hands/Red flame head/Signs/Sweep.png"
+              "Sweep": "/hands/Hands/Red flame head/4.Signs/Sweep.png"
             }
           ]
         },
         {
-          "Smoke": [
+          "5.Smoke": [
             {
-              "Cigar": "/hands/Hands/Red flame head/Smoke/Cigar.png"
+              "Cigar": "/hands/Hands/Red flame head/5.Smoke/Cigar.png"
             },
             {
-              "Iqos": "/hands/Hands/Red flame head/Smoke/Iqos.png"
+              "Iqos": "/hands/Hands/Red flame head/5.Smoke/Iqos.png"
             },
             {
-              "Pipe": "/hands/Hands/Red flame head/Smoke/Pipe.png"
+              "Pipe": "/hands/Hands/Red flame head/5.Smoke/Pipe.png"
             },
             {
-              "Vape": "/hands/Hands/Red flame head/Smoke/Vape.png"
+              "Vape": "/hands/Hands/Red flame head/5.Smoke/Vape.png"
             }
           ]
         },
         {
-          "Taco Tuesday": [
+          "6.Taco Tuesday": [
             {
-              "Taco": "/hands/Hands/Red flame head/Taco Tuesday/Taco.png"
+              "Taco": "/hands/Hands/Red flame head/6.Taco Tuesday/Taco.png"
             }
           ]
         }
