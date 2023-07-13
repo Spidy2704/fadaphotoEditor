@@ -1,0 +1,6 @@
+[
+    {
+      "name": "photo-editor",
+      "imageUri": "845716118592.dkr.ecr.us-east-1.amazonaws.com/photo-editor:latest"
+    }
+]
